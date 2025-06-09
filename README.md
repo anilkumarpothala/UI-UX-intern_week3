@@ -1,3 +1,5 @@
+
+![Uploading Screenshot 2025-06-09 152456.png…]()
 # 🐾 Pretty Pets Animal Shelter - Adoption Profile: Kyubi
 
 This project showcases an adoption profile template for Pretty Pets Animal Shelter, designed to present each animal's background, health, and adoption information in a friendly and accessible format.
